@@ -1,4 +1,4 @@
- currency converter
+<h1> currency converter</h1>
  <p>This project aims to provide an intuitive and user-friendly interface for users to convert currencies quickly and accurately.</p><br>
  <h3><b>Features</b></h3>
  <p>Get the latest exchange rates for various currencies.</p><br>
