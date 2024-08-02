@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  currency converter
  <p>This project aims to provide an intuitive and user-friendly interface for users to convert currencies quickly and accurately.</p><br>
  <h3><b>Features</b></h3>
@@ -12,7 +11,3 @@
  <p>JavaScript</p><br>
  <p>API:</p><br>
  <p>Exchange rate API</p><br> 
-=======
-<b> currency converter </b>
- 
->>>>>>> d217897cc129aa14224c941d65d818327fc75787
